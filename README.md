@@ -1,4 +1,4 @@
-# Substitution cipher cracker (POC)
+# Substitution cipher cracker (PoC)
 
 Uses a genetic algorithm with diphone frequency analysis. 
 
